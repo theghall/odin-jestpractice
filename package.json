@@ -1,0 +1,14 @@
+{
+  "name": "odin-jestpractice",
+  "version": "1.0.0",
+  "description": "learning jest basics",
+  "scripts": {
+    "test": "jest",
+    "watch" : "jest --watchAll"
+  },
+  "author": "Gary Hall",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
